@@ -5,6 +5,8 @@ This is free to use for anyone needing to build a full-stack MERN app with Redux
 
 You'll need to have a MongoDB Atlas account, with a database created.
 
+The client folder was initialized using create-react-app. React-router is set up in App.js and ready to add your routes to.
+
 ## Installation Instructions
 
 Clone the repo to your machine.
